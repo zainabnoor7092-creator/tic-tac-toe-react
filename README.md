@@ -1,10 +1,10 @@
-# 🎮 Tic-Tac-Toe React
+# Tic-Tac-Toe React
 
-Welcome to **Tic-Tac-Toe React**, a simple and fun implementation of the classic Tic-Tac-Toe game using **React.js**! 🕹️
+Welcome to **Tic-Tac-Toe React**, a simple and fun implementation of the classic Tic-Tac-Toe game using **React.js**! 
 
 ---
 
-## ⚡ Features
+##  Features
 
 - Two-player gameplay (X vs O)
 - Clean and interactive UI
@@ -14,7 +14,7 @@ Welcome to **Tic-Tac-Toe React**, a simple and fun implementation of the classic
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - React.js
 - JavaScript (ES6)
@@ -23,7 +23,7 @@ Welcome to **Tic-Tac-Toe React**, a simple and fun implementation of the classic
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally:
 
